@@ -1,4 +1,4 @@
-# Gestion graphe
+# Graph manager
 
 This is a desktop application using c++ and qt framework
 
